@@ -2,19 +2,24 @@
 
 This example shows how to use [Tailwind CSS](https://tailwindcss.com/) [(v3.0)](https://tailwindcss.com/blog/tailwindcss-v3) with Next.js. It follows the steps outlined in the official [Tailwind docs](https://tailwindcss.com/docs/guides/nextjs).
 
+
+## Quick links 
+
+Next.js documentation - https://nextjs.org/docs
+
+Tailwind documentation - https://tailwindcss.com/docs/guides/nextjs
+
 ## Running local server
 
 Run `npm run dev` or `yarn dev` or `pnpm dev` to start the development server on http://localhost:3000.
 
-Visit http://localhost:3000 to view your application.
-
-Edit pages/index.js and see the updated result in your browser
 
 ## Deploy your own
 
 Deploy the example using [Vercel](https://vercel.com?utm_source=github&utm_medium=readme&utm_campaign=next-example) or preview live with [StackBlitz](https://stackblitz.com/github/vercel/next.js/tree/canary/examples/with-tailwindcss)
 
 [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/git/external?repository-url=https://github.com/vercel/next.js/tree/canary/examples/with-tailwindcss&project-name=with-tailwindcss&repository-name=with-tailwindcss)
+
 
 ## How to use
 
